@@ -1,1 +1,1 @@
-Configs of work machines.
+work machine configurations.
